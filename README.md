@@ -1,23 +1,23 @@
-# Autodidact Learning Portfolio / Portfólio de Formação Autodidata
+# 👨‍💻 Alysson Bruno • Software Engineering & AI Projects
 
 ## ENGLISH
 
-This repository documents my self-directed learning journey in Software Engineering and Emerging Technologies. Structured around international standards and supported by advanced tools, it includes:
+Medical doctor with 20+ years of experience, now building a second career in Software Engineering.  
+Focused on AI, Data Science, IoT, XR and Blockchain.  
 
-- My personalized multi-year study plan  
-- Thematic GitHub repositories with technical projects  
-- Weekly tasks, challenges and global solution prototypes  
-- Tools, reflections and continuous skill tracking  
+This GitHub documents my structured self-learning journey through real-world challenges, conceptual prototypes, and technical exercises.  
+I'm building a global-ready portfolio using international standards and modern tools.
 
-It represents a realistic, structured, and globally oriented approach to becoming a skilled software professional, with the freedom to work remotely and beyond borders.
+> *Learning every day. Creating with purpose.*
+
+---
 
 ## PORTUGUÊS
 
-Este repositório documenta minha jornada de aprendizado autodidata em Engenharia de Software e Tecnologias Emergentes. Estruturado com base em padrões internacionais e com o apoio de ferramentas avançadas, inclui:
+Médico com mais de 20 anos de experiência, atualmente construindo uma segunda carreira em Engenharia de Software.  
+Foco em IA, Ciência de Dados, IoT, XR e Blockchain.  
 
-- Meu plano de estudos personalizado de múltiplos anos  
-- Repositórios temáticos com projetos técnicos no GitHub  
-- Tarefas semanais, desafios e protótipos de soluções globais  
-- Ferramentas, reflexões e acompanhamento contínuo de habilidades  
+Este GitHub documenta minha jornada de formação autodidata estruturada, por meio de desafios reais, protótipos conceituais e exercícios técnicos.  
+Estou desenvolvendo um portfólio preparado para o mercado global, com base em padrões internacionais e ferramentas modernas.
 
-Representa uma abordagem realista, estruturada e com foco global para me tornar um profissional de software qualificado, com liberdade para atuar remotamente em qualquer lugar do mundo.
+> *Aprendizado constante. Criação com propósito.*
