@@ -1,34 +1,29 @@
-# Alysson Bruno | Software Engineering Student
+# 🚀 Alysson Bruno | Software Engineering Portfolio 🇺🇸 / 🇧🇷
 
-🇺🇸 **English**
+Welcome to my self-taught, challenge-based Software Engineering portfolio!
 
-Welcome! I'm Alysson, a self-taught Software Engineering student passionate about using technology to solve real-world problems.  
-I'm building a strong foundation in software development and infrastructure, while exploring some of the most innovative areas in tech.
-
----
-
-🛠️ **Core Foundations:**  
-Cloud Computing · Cybersecurity · Software Engineering Principles
-
-🚀 **Passion & Innovation:**  
-Blockchain · Artificial Intelligence (AI) · Virtual/Augmented Reality (VR/AR) · Metaverse · Internet of Things (IoT)
+This repository documents my hands-on and bilingual learning journey in Software Engineering and Modern Development, inspired by world-class curricula (FIAP, MIT, Stanford, CMU, Helsinki University, etc).  
+**All code, documentation, and reflections are in English. Bilingual summaries available for accessibility.**
 
 ---
 
-🔎 **About me**
-- 🌱 Currently focused on learning Python, web development, and programming fundamentals.
-- 💡 Building hands-on projects and participating in real-world challenges to reinforce learning.
-- ⚒️ Always looking to connect fundamentals with innovation, applying cloud and cybersecurity concepts to keep my experiments reliable and secure.
+## 🧩 Languages & Technologies
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssondev&layout=compact&theme=default)
 
 ---
 
-## 📌 Featured Projects
+## 📚 Main Tracks & Topics
 
-- [python-fundamentals](https://github.com/alysson-tech/python-fundamentals)
-- [web-development-html-css-js](https://github.com/alysson-tech/web-development-html-css-js)
-- [ai-integrations](https://github.com/alysson-tech/ai-integrations)
-- [blockchain-and-solidity](https://github.com/alysson-tech/blockchain-and-solidity)
-- [cloud-and-devops](https://github.com/alysson-tech/cloud-and-devops)
+- **Python:** Fundamentals, algorithms, automation
+- **JavaScript, HTML, CSS:** Web development, UI prototyping
+- **IoT & Edge Computing:** Arduino, sensors, microcontrollers
+- **Problem Solving / Computational Thinking**
+- **English-first documentation:** International open standard
+
+---
+
+## 📂 Repository Structure
 
 ---
 
@@ -70,9 +65,8 @@ Blockchain · Inteligência Artificial (IA) · Realidade Virtual/Aumentada (RV/R
 
 - [python-fundamentals](https://github.com/alysson-tech/python-fundamentals)
 - [web-development-html-css-js](https://github.com/alysson-tech/web-development-html-css-js)
-- [ai-integrations](https://github.com/alysson-tech/ai-integrations)
-- [blockchain-and-solidity](https://github.com/alysson-tech/blockchain-and-solidity)
-- [cloud-and-devops](https://github.com/alysson-tech/cloud-and-devops)
+- [iot-and-edge-computing](https://github.com/alysson-tech/iot-and-edge-computing)
+- [global-solutions](https://github.com/alysson-tech/global-solutions)
 
 ---
 
