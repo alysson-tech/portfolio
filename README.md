@@ -33,7 +33,7 @@ This repository documents my hands-on and bilingual learning journey in Software
 
 ---
 
-## 📢 Contact
+## 📬 Contact / Contato
 
 - **Email:** [alyssonbrunooliveirasantos@gmail.com](mailto:alyssonbrunooliveirasantos@gmail.com)
 
